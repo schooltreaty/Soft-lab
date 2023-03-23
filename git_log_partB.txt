@@ -1,0 +1,93 @@
+commit d7375d68762b49532e358f5e37e7a9b6bdd3a445
+Author: schooltreaty <bishal123899@gmail.com>
+Date:   Fri Mar 24 01:20:10 2023 +0530
+
+    re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..7f8b625
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 wipro
+
+commit 188924b63e1c9392fee66a339663c613f55cf384
+Author: schooltreaty <bishal123899@gmail.com>
+Date:   Fri Mar 24 01:15:50 2023 +0530
+
+    deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 5d94d1c..e1304db 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Vishal Raj  CSE
+ TGC
+ Movie
++blue
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 7f8b625..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 wipro
+
+commit 4b66c29de9625aa3ef799d18e0c561a77e8ce4b6
+Author: schooltreaty <bishal123899@gmail.com>
+Date:   Fri Mar 24 01:10:51 2023 +0530
+
+    added graduation year
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..7f8b625
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 wipro
+
+commit 7fe6972b342dcd7eee35432f40b9fd2ce878915b
+Author: schooltreaty <bishal123899@gmail.com>
+Date:   Fri Mar 24 01:03:23 2023 +0530
+
+    Added Favorite Restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index ce8808e..5d94d1c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ Vishal Raj  CSE
++TGC
++Movie
+
+commit 6e55a1f9fd21627d50b08052ce9340870d135e25
+Author: schooltreaty <bishal123899@gmail.com>
+Date:   Fri Mar 24 01:01:08 2023 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index badd186..ce8808e 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Vishal Raj BT21CSE117
++Vishal Raj  CSE
+
+commit 203f0847b63aaed807b198bef14f5655fb426c82
+Author: schooltreaty <bishal123899@gmail.com>
+Date:   Fri Mar 24 00:53:55 2023 +0530
+
+    Student Detail
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..badd186
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Vishal Raj BT21CSE117
